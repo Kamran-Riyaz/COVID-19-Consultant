@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197399659815",
+    "firebase_url": "https://covid-19-consultant.firebaseio.com",
+    "project_id": "covid-19-consultant",
+    "storage_bucket": "covid-19-consultant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197399659815:android:d45241286a0fab970d9502",
+        "android_client_info": {
+          "package_name": "quote.broadcast.kamranriyaz.covid_19test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197399659815-f68pmb93ntpdn0o4i8an7fig0tl8hc5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quote.broadcast.kamranriyaz.covid_19test",
+            "certificate_hash": "6a1d685b3e72a46d0d41758f09f668c456a1ae96"
+          }
+        },
+        {
+          "client_id": "197399659815-lr9ekv00pb4s01lbidq53qcag1uiqq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEf6JMHROs0tFGOH41ynFO-F27otSc6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197399659815-lr9ekv00pb4s01lbidq53qcag1uiqq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
